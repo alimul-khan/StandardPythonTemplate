@@ -25,7 +25,7 @@ StandardPythonTemplate is a Python project template that provides a basic struct
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/StandardPythonTemplate.git
+git clone https://github.com/alimul-khan/StandardPythonTemplate.git
 cd StandardPythonTemplate
 Install the required dependencies:
 bash
